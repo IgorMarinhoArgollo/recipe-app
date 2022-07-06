@@ -59,7 +59,7 @@
 ##  
 
 This was the last Frontend module project in Trybe's Full Stack Web Development Course. <br>
-  The development took place in partnership with friends: <a href="https://github.com/onoue9">Filipe Onoue</a>, <a href="ttps://github.com/JunioASilva">Junio Álves</a>, <a href="https://github.com/LuizModolo">Luiz Módolo</a> and <a href="https://github.com/lucas-morais">Lucas Toledo</a>, using Agile Methodologies (SCRUM) with the use of Kanban (by Trello).<br>
+  The development took place in partnership with friends: <a href="https://github.com/onoue9">Filipe Onoue</a>, <a href="https://github.com/JunioASilva">Junio Álves</a>, <a href="https://github.com/LuizModolo">Luiz Módolo</a> and <a href="https://github.com/lucas-morais">Lucas Toledo</a>, using Agile Methodologies (SCRUM) with the use of Kanban (by Trello).<br>
    Its primary objective was to practice transferring information through Props, ContextAPI, React Hooks and React Components through the development of a recipe app-style website for small screens (320X640px), which can later be adapted using the mobile first methodology for larger screens. <br>
 
 ## My Goals
