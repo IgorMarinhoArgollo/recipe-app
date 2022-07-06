@@ -42,10 +42,6 @@ function Login() {
     history.push('/comidas');
   };
 
-  const alert = () => {
-    window.alert('Use "email@email.com" as email and "1234567" as password');
-  };
-
   return (
     <div className="celphone">
       <div className="loginPage">
@@ -62,7 +58,7 @@ function Login() {
           value={ email }
         />
         <Input
-          placeholder="Password"
+          placeholder="text"
           type="password"
           onChange={ handleChangePassword }
           value={ password }
@@ -75,7 +71,6 @@ function Login() {
         />
       </div>
       <Link className="celphoneBtn" to="/" />
-      { alert() }
     </div>
   );
 }
