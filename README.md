@@ -3,7 +3,7 @@
 <details>
   <summary><h2>:brazil: Português</h2></summary>
   Esse foi o último projeto do módulo de Frontend no curso de Desenvolvimento Web Full Stack da Trybe. <br>
-  O desenvolvimento aconteceu em parceria com os amigos: <a href="">Filipe Onoue</a>, <a href="">Junio Álves</a>, <a href="">Luiz Módolo</a> e <a href="">Lucas Toledo</a>, utilizando Metodologias Ágeis(SCRUM) com o uso de Kanban(pelo Trello).<br>
+  O desenvolvimento aconteceu em parceria com os amigos: <a href="https://github.com/onoue9">Filipe Onoue</a>, <a href="https://github.com/JunioASilva">Junio Álves</a>, <a href="https://github.com/LuizModolo">Luiz Módolo</a> e <a href="https://github.com/lucas-morais">Lucas Toledo</a>, utilizando Metodologias Ágeis(SCRUM) com o uso de Kanban(pelo Trello).<br>
    O seu objetivo primário foi praticar transferência de informações por Props, ContextAPI, React Hooks e React Components através do desenvolvimento de um site no estilo app de receitas para telas pequenas (320X640px), que posteriormente pode ser adaptado através da metodologia mobile first para telas maiores.<br>
   
   
@@ -17,7 +17,7 @@
   * Assistir o vídeo da execução da receita.
 
   ## Live Link
-  <a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Recipe App</a>
+  <a href="https://project-recipe-app.netlify.app/" target="_blank">Recipe App</a>
   
   ## Screenshot
   ![ScreenShot](./public/demonstracao.gif)
@@ -59,7 +59,7 @@
 ##  
 
 This was the last Frontend module project in Trybe's Full Stack Web Development Course. <br>
-  The development took place in partnership with friends: <a href="">Filipe Onoue</a>, <a href="">Junio ​​Álves</a>, <a href="">Luiz Módolo</a> and <a href="">Lucas Toledo</a>, using Agile Methodologies (SCRUM) with the use of Kanban (by Trello).<br>
+  The development took place in partnership with friends: <a href="https://github.com/onoue9">Filipe Onoue</a>, <a href="https://github.com/JunioASilva">Junio Álves</a>, <a href="https://github.com/LuizModolo">Luiz Módolo</a> and <a href="https://github.com/lucas-morais">Lucas Toledo</a>, using Agile Methodologies (SCRUM) with the use of Kanban (by Trello).<br>
    Its primary objective was to practice transferring information through Props, ContextAPI, React Hooks and React Components through the development of a recipe app-style website for small screens (320X640px), which can later be adapted using the mobile first methodology for larger screens. <br>
 
 ## My Goals
@@ -73,7 +73,7 @@ This was the last Frontend module project in Trybe's Full Stack Web Development 
 
 
 ## Live Link
-<a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Recipe App</a>
+<a href="https://project-recipe-app.netlify.app/" target="_blank">Recipe App</a>
   
 ## Screenshot
 ![ScreenShot](./public/demonstracao.gif)
