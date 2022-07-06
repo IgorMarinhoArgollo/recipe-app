@@ -1,0 +1,32 @@
+.ingredientDeck {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 15px 0;
+  margin-top: 60px;
+  overflow-y: scroll;
+  padding-bottom: 80px;
+  width: 100%;
+}
+
+.ingredientCard {
+  background-color: var(--azul-claro);
+  border-radius: 15px;
+  box-shadow: 4px 4px var(--azul);
+  height: 147.5px;
+  margin: 10px;
+  text-align: center;
+  width: 100px;
+}
+
+.ingredientCard h2 {
+  background-color: var(--laranja);
+  border-radius: 0 0 15px 15px;
+  color: var(--azul);
+  font-size: 1rem;
+  height: 47.5px;
+  margin: 0 0 8px;
+  padding: 5px 0;
+  padding-left: 15px;
+  text-align: start;
+}

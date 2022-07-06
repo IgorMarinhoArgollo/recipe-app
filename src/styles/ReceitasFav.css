@@ -1,0 +1,29 @@
+.interactionFavBtn {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 170px;
+  margin-top: -103px;
+  position: absolute;
+  width: 25%;
+}
+
+.shareFavBtn {
+  background-color: var(--branco);
+  border: solid 0.5px var(--azul);
+  border-radius: 50%;
+  box-shadow: 2.5px 2.5px var(--azul);
+  height: 40px;
+  margin-right: 10px;
+  padding: 7px;
+  width: 40px;
+}
+
+.interactionFavBtn button {
+  background-color: transparent;
+  padding: 0;
+}
+
+.interactionFavBtn button img {
+  height: 23px;
+  width: 23px;
+}

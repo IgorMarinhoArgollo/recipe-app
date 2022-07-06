@@ -1,0 +1,54 @@
+.deckSection {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 55px;
+  overflow-y: scroll;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.recipeCard {
+  align-self: center;
+  background-color: var(--laranja-claro);
+  border-radius: 20px;
+  box-shadow: 4px 4px var(--azul);
+  margin-left: 10%;
+  width: 80%;
+}
+
+.recipeCard img {
+  border-radius: 20px 20px 0 0;
+  width: 100%;
+}
+
+.recipeCard p {
+  color: var(--azul);
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 0;
+  padding: 5px 0 5px 15px;
+  width: 100%;
+}
+
+.videoSection {
+  margin-bottom: 20px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

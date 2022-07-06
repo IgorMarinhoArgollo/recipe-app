@@ -1,0 +1,29 @@
+.loginPage {
+  background-color: var(--laranja);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 590px;
+  justify-content: center;
+  text-align: center;
+  transform: scale(0.95);
+  width: 320px;
+}
+
+.logoImg {
+  align-self: center;
+  height: 300px;
+  width: 300px;
+}
+
+.loginPage div {
+  align-self: center;
+  margin: 5px 0;
+  width: 70vw;
+}
+
+.loginBtn {
+  border-radius: 15px;
+  color: var(--branco);
+  font-weight: 700;
+}

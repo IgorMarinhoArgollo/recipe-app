@@ -1,0 +1,77 @@
+.Header {
+  background-color: var(--laranja);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding-right: 5px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.headerBar {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 56px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.headerBar h2 {
+  font-size: 1.4rem;
+  margin: 5px 0 8px;
+}
+
+.exploreIngr {
+  font-size: 1.1rem;
+  margin: 5px 0 8px;
+}
+
+.headerBtn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+
+.headerSearchBar {
+  align-items: center;
+  background-color: var(--azul-claro);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 5px 0;
+  width: 100%;
+}
+
+.headerRadio {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.inputAndBtn {
+  display: flex;
+  justify-content: center;
+  margin: 0 5px;
+  max-height: 35px;
+  width: 100%;
+}
+
+.inputAndBtn input {
+  border-radius: 15px;
+  height: 30px;
+  padding-left: 7px;
+}
+
+.searchBtn {
+  border-radius: 15px;
+  color: var(--branco);
+  font-weight: 700;
+  height: 30px;
+  margin-bottom: 8px;
+  margin-left: 10px;
+  padding: 0 20px;
+}

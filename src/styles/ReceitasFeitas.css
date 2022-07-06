@@ -1,0 +1,89 @@
+.doneRecipesPage {
+  display: flex;
+  flex-direction: column;
+}
+
+.filterBtn {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.filterBtn button {
+  border-radius: 10px;
+  color: var(--branco);
+  height: 30px;
+  margin-bottom: 8px;
+  padding: 0;
+  width: 70px;
+}
+
+.doneDeck {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.doneCard {
+  background-color: var(--laranja-claro);
+  border-radius: 20px;
+  box-shadow: 4px 4px var(--azul);
+  margin-bottom: 20px;
+  position: relative;
+  width: 70%;
+}
+
+.doneCard h3 {
+  color: var(--azul);
+  font-size: 1.2rem;
+  font-weight: 700;
+  width: 100%;
+}
+
+.doneCard h2 {
+  color: var(--azul);
+  font-size: 1.1rem;
+  width: 100%;
+}
+
+.doneDateMeal {
+  background-color: var(--azul-claro);
+  border-radius: 0 0 20px 20px;
+  margin: 0;
+}
+
+.doneDateDrink {
+  background-color: var(--azul-claro);
+  border-radius: 0 0 20px 20px;
+  margin: 0;
+}
+
+.shareDoneBtn {
+  background-color: var(--branco);
+  border: solid 0.5px var(--azul);
+  border-radius: 50%;
+  box-shadow: 2.5px 2.5px var(--azul);
+  height: 40px;
+  margin-left: 190px;
+  margin-top: -20px;
+  padding: 5px;
+  position: absolute;
+  width: 40px;
+}
+
+.shareDoneBtn button {
+  background-color: transparent;
+  padding: 0;
+}
+
+.shareDoneBtn button img {
+  height: 25px;
+  width: 25px;
+}
+
+.scroll {
+  margin-top: 60px;
+  overflow-y: scroll;
+}

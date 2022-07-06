@@ -1,0 +1,20 @@
+.exploreFoodSection {
+  display: flex;
+  flex-direction: column;
+  height: 76%;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+}
+
+.exploreFoodSection button {
+  border-radius: 15px;
+  color: var(--branco);
+  font-size: 1rem;
+  font-weight: 700;
+  width: 60%;
+}
+
+.exploreFoodSection p {
+  font-size: 1rem;
+}

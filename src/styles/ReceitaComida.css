@@ -1,0 +1,198 @@
+.recipeSection {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: scroll;
+  position: relative;
+  width: 100%;
+}
+
+.homeBtn {
+  background-color: var(--laranja);
+  border-radius: 10px;
+  box-shadow: 3px 3px var(--azul);
+  color: var(--azul);
+  font-size: 15px;
+  left: 15px;
+  padding: 5px 10px;
+  position: fixed;
+  top: 15px;
+  z-index: 2;
+}
+
+.infoRecipes {
+  background-color: var(--branco);
+  padding: 0 20px;
+  padding-bottom: 50px;
+  padding-top: 60px;
+  width: 100%;
+}
+
+.recipeHeader {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  position: absolute;
+  top: 280px;
+  width: 100%;
+  z-index: 1;
+}
+
+.recipeTitle {
+  background-color: var(--laranja-claro);
+  border: solid 0.5px var(--azul);
+  border-radius: 50px;
+  box-shadow: 2.5px 2.5px var(--azul);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px 15px;
+  width: 150px;
+}
+
+.recipeTitle h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.recipeTitle p {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.recomendedCart img {
+  width: 100%;
+}
+
+.doneCard img {
+  border-radius: 20px 20px 0 0;
+  width: 100%;
+}
+
+.interactionBtn {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.shareBtn {
+  background-color: var(--branco);
+  border: solid 0.5px var(--azul);
+  border-radius: 50%;
+  box-shadow: 2.5px 2.5px var(--azul);
+  height: 40px;
+  margin-right: 10px;
+  padding: 7px;
+  width: 40px;
+}
+
+.interactionBtn button {
+  background-color: transparent;
+  padding: 0;
+}
+
+.interactionBtn button img {
+  height: 23px;
+  width: 23px;
+}
+
+.btnDiv button {
+  background-color: var(--azul);
+  bottom: -2px;
+  color: var(--branco);
+  font-weight: 700;
+  left: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.videoSection {
+  width: 100%;
+}
+
+.buttonFixed {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.recomendedList {
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+}
+
+.image-container {
+  position: relative;
+  width: 960px;
+}
+
+.recomendedCart {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 140px;
+}
+
+.recomendedCart p {
+  background-color: var(--laranja-claro);
+  color: var(--azul);
+  font-size: 0.9rem;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.recomendedCart h3 {
+  background-color: var(--laranja-claro);
+  color: var(--azul);
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.button-container button {
+  background-color: var(--branco);
+  border: solid 0.5px var(--azul);
+  border-radius: 50%;
+  box-shadow: 2.5px 2.5px var(--azul);
+  height: 40px;
+  margin: 10px;
+  padding: 7px;
+  width: 40px;
+}
+
+.visible {
+  display: inline-block;
+}
+
+.invisible {
+  display: none;
+}
+
+.email {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.doneBtn {
+  display: none;
+}
+
+.mainImage {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
+}

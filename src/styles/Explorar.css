@@ -1,0 +1,20 @@
+.exploreSection {
+  display: flex;
+  flex-direction: column;
+  height: 72%;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+}
+
+.imgExplore {
+  height: 250px;
+  width: 100%;
+}
+
+.exploreSection button {
+  border-radius: 15px;
+  color: var(--branco);
+  font-weight: 700;
+  width: 60%;
+}

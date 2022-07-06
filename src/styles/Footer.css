@@ -1,0 +1,23 @@
+footer {
+  background-color: var(--laranja-claro);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  bottom: 0;
+  height: 55px;
+  position: fixed;
+  width: 100%;
+}
+
+.footerBar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerBar button {
+  background-color: transparent;
+}
+
+.footerBar button img {
+  height: 30px;
+}
