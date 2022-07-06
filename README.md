@@ -17,7 +17,7 @@
   * Assistir o vídeo da execução da receita.
 
   ## Live Link
-  <a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Recipe App</a>
+  <a href="project-recipe-app.netlify.app" target="_blank">Recipe App</a>
   
   ## Screenshot
   ![ScreenShot](./public/demonstracao.gif)
@@ -73,7 +73,7 @@ This was the last Frontend module project in Trybe's Full Stack Web Development 
 
 
 ## Live Link
-<a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Recipe App</a>
+<a href="project-recipe-app.netlify.app" target="_blank">Recipe App</a>
   
 ## Screenshot
 ![ScreenShot](./public/demonstracao.gif)

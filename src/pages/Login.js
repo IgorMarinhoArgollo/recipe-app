@@ -58,7 +58,7 @@ function Login() {
           value={ email }
         />
         <Input
-          placeholder="text"
+          placeholder="Password"
           type="password"
           onChange={ handleChangePassword }
           value={ password }
