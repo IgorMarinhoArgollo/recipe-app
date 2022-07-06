@@ -32,7 +32,7 @@
   * Javacript
   
   ## Como usar
-  Acesse o site, navegue pelo menu escolhendo Comidas, Bebidas ou Explorar; filtre as receitas, escolha a sua, inicie a sua receita, assista o vídeo e leia as instruções, vá executando a receita junto com o site, finalize a sua receita e salve as suas favoritas;
+  Acesse o site, <b>use "email@email.com" como email e "1234567" como senha</b>. Navegue pelo menu escolhendo Comidas, Bebidas ou Explorar; filtre as receitas, escolha a sua, inicie a sua receita, assista o vídeo e leia as instruções, vá executando a receita junto com o site, finalize a sua receita e salve as suas favoritas;
       
   ## Rodar Localmente
   ### Requisitos:
@@ -88,7 +88,7 @@ This was the last Frontend module project in Trybe's Full Stack Web Development 
   * Javacript
 
 ## How to use it
-  Access the website, browse the menu by choosing Food, Drinks or Explore; filter the recipes, choose yours, start your recipe, watch the video and read the instructions, run the recipe along with the website, finish your recipe and save your favorites;
+  Access the website,  <b>use "email@email.com" as Email and "1234567" as Password</b>. Browse the menu by choosing Food, Drinks or Explore; filter the recipes, choose yours, start your recipe, watch the video and read the instructions, run the recipe along with the website, finish your recipe and save your favorites;
         
 ## Run Locally
   ### Requirements:

@@ -1,3 +1,4 @@
+/* eslint-disable no-alert */
 import React, { useState } from 'react';
 import { useHistory } from 'react-router';
 import { Link } from 'react-router-dom';
@@ -41,6 +42,10 @@ function Login() {
     history.push('/comidas');
   };
 
+  const alert = () => {
+    window.alert('Use "email@email.com" as email and "1234567" as password');
+  };
+
   return (
     <div className="celphone">
       <div className="loginPage">
@@ -70,6 +75,7 @@ function Login() {
         />
       </div>
       <Link className="celphoneBtn" to="/" />
+      { alert() }
     </div>
   );
 }
