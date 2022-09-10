@@ -60,9 +60,6 @@
    
       npm start
    <br><br>
-  ## Informações de Desenvolvimento (Projeto Original)
-  Commits de Desenvolvimento: 75; <br>
-  Tempo Gasto: 6 dias;<br><br>
   
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
@@ -139,9 +136,6 @@ This was the last Frontend module project in Trybe's Full Stack Web Development 
       npm start
 
 <br><br>
-## Development Information (Original Project)
-  Development Commits: 75; <br>
-  Time Spent: 6 days; <br> <br>
 
 ## How to contribute on the project
   1. Make a **fork** of the project;
