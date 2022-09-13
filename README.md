@@ -26,7 +26,7 @@
   * Assistir o vídeo da execução da receita.<br><br>
 
   ## Live Link
-  <a href="project-recipe-app.netlify.app" target="_blank">Recipe App</a><br><br>
+  <a href="http://project-recipe-app.netlify.app" target="_blank">Recipe App</a><br><br>
   
   ## Screenshot
   ![ScreenShot](./public/demonstracao.gif)<br><br>
@@ -102,7 +102,7 @@ This was the last Frontend module project in Trybe's Full Stack Web Development 
 
 
 ## Live Link
-<a href="project-recipe-app.netlify.app" target="_blank">Recipe App</a><br><br>
+<a href="http://project-recipe-app.netlify.app" target="_blank">Recipe App</a><br><br>
   
 ## Screenshot
 ![ScreenShot](./public/demonstracao.gif)<br><br>
